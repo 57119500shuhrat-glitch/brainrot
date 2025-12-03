@@ -1,0 +1,66 @@
+.card {
+   width: 879px;
+   height: 127px;
+   border-radius: 50px;
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: black;
+   margin: 200px 300px;
+   text-shadow: 6px 5px 6.5px #FFFFFFF7;
+   font-size: 48px;
+}
+    .bola_box {
+        position: relative;
+        text-align: center;
+       
+}
+
+    .position {
+        padding: 20px;
+        background: red;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 100%;
+        border-radius: 100%;
+        color: white;
+        top: -80px;
+        right: -20px;
+        position: absolute;
+}
+    .ota_box {
+        margin-top: 200px;
+        display: flex;
+        justify-content: space-around;
+}
+
+.positions{
+     padding: 20px;
+        background: red;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 100%;
+        border-radius: 50px;
+        color: white;
+        top: -80px;
+        right: -20px;
+        position: absolute;
+}
+
+.positionl{
+        padding: 20px;
+        background: red;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 100%;
+        border-radius: 50px;
+        color: white;
+        top: -80px;
+        right: -20px;
+        position: absolute;
+}
+
+.bola_box p{
+    font-size: 48px;
+}
